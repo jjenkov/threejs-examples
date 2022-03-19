@@ -1,5 +1,8 @@
 # Three.js Examples
 This repository contains a list of Three.js examples and experiments. 
+The Three.js website is located at:
+
+[Threejs.org](https://threejs.org)
 
 To get the examples to work, you need to:
 
