@@ -16,13 +16,27 @@ To get the examples to work, you need to:
 
 # Three.js Core Concepts
 Three.js contains the following core concepts that commonly used when creating 3D scenes, and which are thus good to understand:
-
+ 
  - Scene
  - Camera
+   - Perspective Camera
+ - Renderer
+   - WebGL Renderer
+   - SVG Renderer
+   - CSS Renderer  
  - Lights
- - Geometry
- - Materials
- - Texture
+   - Point light
+   - Spotlight
+   - Ambient light
+ - Mesh
+   - Geometry
+     - Box
+     - Sphere
+     - Cone
+     - Particles
+     - Etc.
+   - Materials
+   - Texture
  - 
  
 
