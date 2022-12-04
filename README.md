@@ -14,6 +14,19 @@ To get the examples to work, you need to:
    and load the examples via this web server (instead of directly from the disk). The web server MiniWeb can work.
 
 
+# Three.js Core Concepts
+Three.js contains the following core concepts that commonly used when creating 3D scenes, and which are thus good to understand:
+
+ - Scene
+ - Camera
+ - Lights
+ - Geometry
+ - Materials
+ - Texture
+ - 
+ 
+
+
 ## Examples
 
  - [Basic Three.js example](threejs-basic-example.html) 
